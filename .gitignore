@@ -1,0 +1,10 @@
+node_modules
+# Keep environment variables out of version control
+.env
+# Prisma database files
+prisma
+// Databse
+DB
+
+# Log files
+*.log
