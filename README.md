@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # User Management API
 
 ## Description
@@ -241,3 +242,7 @@ CRUD_PROJECT
 ```
 
 
+=======
+# crud-api
+crud-api using nodejs and postgres
+>>>>>>> 5932d8c478519d1123a26b3bc032fde5396c7481

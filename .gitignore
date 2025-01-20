@@ -3,8 +3,10 @@ node_modules
 .env
 # Prisma database files
 prisma
-// Databse
+// Database
 DB
+
+README.md
 
 # Log files
 *.log
