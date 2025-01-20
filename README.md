@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # User Management API
 
 ## Description
